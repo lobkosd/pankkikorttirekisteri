@@ -16,7 +16,7 @@
                   <Font size="32.0" />
                </font>
             </TextField>
-            <TextArea editable="false" layoutX="147.0" layoutY="69.0" prefHeight="48.0" prefWidth="290.0" text="Arno Korhonen &amp; Lobko Dani">
+            <TextArea editable="false" layoutX="129.0" layoutY="88.0" prefHeight="22.0" prefWidth="326.0" text="Arno Korhonen &amp; Lobko Dani">
                <font>
                   <Font size="20.0" />
                </font>
